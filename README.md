@@ -10,7 +10,7 @@
 
 GitHub上以前活躍現在半死不活的開發者（GitHub活躍度和心情成反比）
 
-TeapotPS開發者，Grasscutter早期貢獻者
+某二次元遊戲的微不足道的私服的開發者，Grasscutter早期貢獻者
 
 以前是Java單推人，現轉生Node.js應付某些傻逼比賽
 
