@@ -36,10 +36,6 @@ const wanderer = {
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=技术栈+%F0%9F%9A%80;网络安全+%F0%9F%94%92;全栈开发+%F0%9F%8E%AF" alt="Tech Stack" />
-</div>
-
 ## 🛠️ 技术栈
 
 <div align="center">
@@ -81,10 +77,6 @@ const wanderer = {
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=我的贡献+%F0%9F%8E%AF;代码统计+%F0%9F%9A%80;活跃度+%F0%9F%8C%9F" alt="Contributions" />
-</div>
-
 ## 📊 我的贡献
 
 <div align="center">
@@ -93,11 +85,8 @@ const wanderer = {
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=让我们一起连接+%F0%9F%91%8B;交流技术+%F0%9F%9A%80;共同成长+%F0%9F%8C%9F" alt="Connect" />
-</div>
 
-## 🤝 让我们一起连接
+## 🤝 让世界灿烂盛大 🗺️
 
 <div align="center">
   <a href="https://github.com/wanderer-fly">
