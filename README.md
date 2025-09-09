@@ -32,6 +32,7 @@ const wanderer = {
   currentlyLearning: ["Web安全", "二进制安全", "Linux内核安全"],
   motto: "这个世界灿烂盛大！"
 };
+```
 
 ---
 
