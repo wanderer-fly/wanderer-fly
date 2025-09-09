@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=你好，我是+蹦蹦小圆帽+%F0%9F%8C%8F;欢迎来到我的GitHub+Profile+%F0%9F%91%8B;让世界灿烂盛大！+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E8%AE%A9%E4%B8%96%E7%95%8C%E7%81%BF%E7%83%82%E7%9B%9B%E5%A4%A7%EF%BC%81" alt="Typing SVG" /></a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wanderer-fly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderer-fly&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wanderer-fly&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderer-fly&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wanderer-fly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wanderer-fly&theme=transparent&hide_border=true&locale=zh_Hant&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 <br>
