@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=你好，我是+蹦蹦小圆帽+%F0%9F%8C%8F;网络安全研究员+%F0%9F%94%92;让世界灿烂盛大！+%F0%9F%8C%9F" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E7%81%BF%E7%83%82%E7%9B%9B%E5%A4%A7%EF%BC%81)](https://git.io/typing-svg)
 
 <br>
 
