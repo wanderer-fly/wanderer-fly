@@ -29,6 +29,8 @@ const wanderer = {
 };
 ```
 
+---
+
 ## 🛠️ 技术栈
 
 <div align="center">
@@ -62,17 +64,15 @@ const wanderer = {
 
 </div>
 
+---
+
 ## 📊 我的贡献
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wanderer-fly&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🏆 GitHub 成就
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wanderer-fly&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+---
 
 ## 🤝 让我们一起连接
 
