@@ -30,13 +30,8 @@ const wanderer = {
   expertise: ["渗透测试", "漏洞挖掘", "安全防护"],
   interests: ["网络安全", "逆向工程", "恶意软件分析"],
   currentlyLearning: ["Web安全", "二进制安全", "Linux内核安全"],
-  motto: "让世界灿烂盛大！"
+  motto: "这个世界灿烂盛大！"
 };
-```
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=网络安全研究员+%F0%9F%94%92;渗透测试+%F0%9F%9A%80;漏洞挖掘+%F0%9F%8E%AF;让世界灿烂盛大！+%F0%9F%8C%9F" alt="About Me" />
-</div>
 
 ---
 
